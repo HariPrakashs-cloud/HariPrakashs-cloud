@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **hariprakash.bdu13@gmail.com**
 
-- ⚡ Fun fact **I think I am the BEST**
+- ⚡ Fun fact **ALL ROUNDER**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
