@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/hari-prakash-146565328/](https://www.linkedin.com/in/hari-prakash-146565328/)
 
-- 💬 Ask me about **3D, AR/VR, Unity Developer**
+- 💬 Ask me about **3D, AR/VR/MR, Unity Developer**
 
 - 📫 How to reach me **hariprakash.bdu13@gmail.com**
 
