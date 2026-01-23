@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hariprakash R</h1>
-<h3 align="center">A passionate AR/VR developer from India</h3>
+<h3 align="center">A passionate AR/VR/MR developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hariprakashs-cloud&label=Profile%20views&color=0e75b6&style=flat" alt="hariprakashs-cloud" /> </p>
 
