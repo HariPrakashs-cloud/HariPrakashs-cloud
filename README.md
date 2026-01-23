@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently Studing on **BVoc in Immersive Tecgnlogy**
 
-- 🌱 I’m currently learning **AR/VR Development**
+- 🌱 I’m currently learning **AR/VR/MR Development**
 
 - 👯 I’m looking to collaborate on **Creative AR/VR games and apps**
 
