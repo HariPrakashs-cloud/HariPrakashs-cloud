@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **hariprakash.bdu13@gmail.com**
 
-- ⚡ Fun fact **MULTI TASKER**
+- ⚡ Fun fact ** MULTI TASKER **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
