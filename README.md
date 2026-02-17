@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **3D, AR/VR/MR, Unity Developer**
 
-- 📫 How to reach me **hariprakash.bdu13@gmail.com**
+- 📫 How to reach me **hariprakashcloud@gmail.com**
 
 - ⚡ Fun fact ** MULTI TASKER **
 
