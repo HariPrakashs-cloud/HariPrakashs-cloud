@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hariprakashs-cloud" alt="hariprakashs-cloud" /></a> </p>
 
-- 🔭 I’m currently Studing on **BVoc in Immersive Technology**
+- 🔭 I’m currently Studying on **BVoc in Immersive Technology**
 
 - 🌱 I’m currently learning **AR/VR/MR Development**
 
