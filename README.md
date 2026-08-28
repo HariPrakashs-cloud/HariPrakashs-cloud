@@ -5,17 +5,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hariprakashs-cloud" alt="hariprakashs-cloud" /></a> </p>
 
-- 🔭 I’m currently Studying on **BVoc in Immersive Technology**
+- 🔭 I’m currently Studying on **B.Voc in Immersive Technology**
 
 - 🌱 I’m currently learning **AR/VR/MR Development**
 
-- 👯 I’m looking to collaborate on **Creative AR/VR games and apps**
+- 👯 I’m looking to collaborate on **Creative AR/VR/MR games and apps**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/hari-prakash-146565328/](https://www.linkedin.com/in/hariprakash13/)
+- 👨‍💻 All of my projects are available at https://hariprakashr.netlify.app/
 
-- 💬 Ask me about **3D, AR/VR/MR, Unity Developer**
+- 💬 Ask me about **3D, AR/VR/MR, Unity Developement**
 
-- 📫 How to reach me **hariprakashcloud@gmail.com**
+- 📫 How to reach me **hariprakashravi01@gmail.com**
 
 - ⚡ Fun fact ** MULTI TASKER **
 
